@@ -78,13 +78,13 @@ Model has predicted INR has expected to maintain stability against USD by end of
 
 #### 2. TCS
 
-As per Model, TCS Stock is projected to experience a 1.58% change by the end of 2025, indicating slight growth or decline which reflectng steady market trend for company.
+As per Model, TCS Stock is projected to experience a 1.58% change by the end of 2025, indicating slight growth or decline which reflecting steady market trend for company.
 
 ![TCS](https://github.com/user-attachments/assets/85661501-0f11-48bb-854b-3168bc50ad20)
 
 #### 3. INFOSYS
 
-Infosys stock is expected to undergo an 8.19% change by end of 2025, reflecting a moderate but significant movement in the comapny'smarket performance over the period.
+Infosys stock is expected to undergo an 8.19% change by end of 2025, reflecting a moderate but significant movement in the company's market performance over the period.
 
 ![INFOSYS](https://github.com/user-attachments/assets/bc879d92-e812-4490-aecb-2244e46f1185)
 
