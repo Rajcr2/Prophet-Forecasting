@@ -47,7 +47,7 @@ Other Utility Libraries : **Matplotlib**, **io**.
 4.   Clone this Repository :
 
    ```
-   [git clone https://github.com/RJ2ndgit/NGAIF-Stories_Chatbot.git](https://github.com/Rajcr2/Prophet-Forecasting.git)
+   https://github.com/Rajcr2/Prophet-Forecasting.git
    ```
 5.   Now, Install all mentioned required libraries in your environment.
 6.   After, that Run **'main.py'** file from Terminal. To activate the dashboard on your browser.
