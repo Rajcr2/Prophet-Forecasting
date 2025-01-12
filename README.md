@@ -1,44 +1,48 @@
-# Conversational CHATBOT for NGAIF-Stories Application.
+# Prophet based Stock Forecasting.
 
 ## Introduction
 
-This is my Internship project. I have created a chatbot for NGAIF-Stories Application to improve user experience and make app more interactive. 
-This stories app developed by Nextgen AI frameworks for story lovers who crave diversity and accesibility in their reading experience.
+In this project, I have developed a scalable time-series forecasting pipeline using Prophet, designed to predict the future stock price of a given company or entity specifically focusing on its performance one year ahead. The pipeline integrates critical features such as seasonality, holiday effects, and trend analysis to provide accurate and actionable forecasts.
 
-Play Store Link -> https://play.google.com/store/apps/details?id=com.ngaif.stories
+## Objectives
+
+The primary goal of this project is to create a time-series forecasting system that can:
+   1. Analyze historical data to predict future trends.
+   2. Enable easy parameter tuning to improve model performance.
+   3. Provide seamless tracking, logging, and deployment of forecasting models using MLflow.
 
 ### Prerequisites
 To run this project, you need to install the following libraries:
 ### Required Libraries
 
 - **Python 3.12+**
-- **NLTK**: This NLP toolkit consist of comprehensive libraries which work with human language data.
-- **Tensorflow**: Consist of tools, libraries which are used to train and deploy machine learning model.
-- **Flask**: Flask is a lightweight and flexible web framework for Python, designed to make it easy to build web applications quickly. 
+- **Pandas**: This library performs data manipulation and analysis also provides powerful data structures like dataframes.
+- **Prophet**: A forecasting tool for time-series data, designed to handle trends, seasonality and holidat effects.
+- **Streamlit**: Streamlit is a framework that builds interactive, data-driven web applications directly in python. 
+- **MLFlow**: An Open-source platform for tracking, managing and deploying machine learning workflows.
 
-Other Utility Libraries : **json**, **pickle**, **numpy**, **random**.
+Other Utility Libraries : **Matplotlib**, **io**.
 
 ### Installation
 
    ```
-   pip install nltk
-   pip install tensorflow
-   pip install Flask
-   pip install numpy
-   pip install json
-   pip install pickle
+   pip install pandas
+   pip install streamlit
+   pip install prophet
+   pip install mlflow
+   pip install matplotlib
    ```
 
 ### Procedure
 
-1.   Create new directory **'Stories_Chatbot'**.
+1.   Create new directory **'Prophet_Forecasting'**.
 2.   Inside that directory/folder create new environment.
    
    ```
-   python -m venv chatbot
+   python -m venv mlflowpf
    ```
 
-  Now, activate this **'chatbot'** venv.
+  Now, activate this **'mlflowpf'** venv.
   
 4.   Clone this Repository :
 
@@ -46,21 +50,21 @@ Other Utility Libraries : **json**, **pickle**, **numpy**, **random**.
    git clone https://github.com/RJ2ndgit/NGAIF-Stories_Chatbot.git
    ```
 5.   Now, Install all mentioned required libraries in your environment.
-6.   After, that Run **'main.py'** file from Terminal. To train the model.
+6.   After, that Run **'main.py'** file from Terminal. To activate the dashboard on your browser.
    ```
-   python main.py
+   streamlit run main.py
    ``` 
-7.   After, Model Training completed just Run the **'stories_app.py'** file and check the output in the browser.
-   ```
-   python stories_app.py
-   ```
-
-
+7. Now, move to your browser.
+8. Upload the csv file from your local machine or you can use sample csv file given here.
+9. After, uploading set the model parameters such as changepoint or forecast period.
+10. Then convert data into prophet preffered format i.e **'ds'** and **'y'** format.
+11. and then just **'Train Model'** and see the forecast results and also, don't forgot to verify model forecast results after 365 days or your mentioned period 😉. 
 
 
 
 ### Output
 
+Results of 
 https://github.com/user-attachments/assets/321f36d7-521a-4ce7-8e10-32973aa38f5e
 
 
