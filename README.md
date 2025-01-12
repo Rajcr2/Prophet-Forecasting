@@ -67,27 +67,30 @@ Other Utility Libraries : **Matplotlib**, **io**.
 Results of MODEL :
 
 
-https://github.com/user-attachments/assets/a792706e-6195-429c-a379-2d01b0dd5554
+https://github.com/user-attachments/assets/9c2efd68-d257-4242-8eef-7e61c5a89257
+
+
+
+
+
 
 
 #### Entities Forecast By MODEL :
 #### 1. USD-INR 
 Model has predicted INR has expected to maintain stability against USD by end of 2025, showing minimal fluctuations in its exchange rate indicating a stable currency.
 
-![Screenshot 2025-01-12 195750](https://github.com/user-attachments/assets/98e4eaef-f4ce-4129-b6ee-d02f0c83a5f4)
+![usd(1)](https://github.com/user-attachments/assets/9c0648b7-c976-4a41-b660-7395b356e6fb)
 
 #### 2. TCS
 
 As per Model, TCS Stock is projected to experience a 1.58% change by the end of 2025, indicating slight growth or decline which reflecting steady market trend for company.
 
-![TCS](https://github.com/user-attachments/assets/85661501-0f11-48bb-854b-3168bc50ad20)
+![TCS 1](https://github.com/user-attachments/assets/95ff449f-f5d9-49ce-9b01-9b72f0d02514)
 
 #### 3. INFOSYS
 
 Infosys stock is expected to undergo an 8.19% change by end of 2025, reflecting a moderate but significant movement in the company's market performance over the period.
 
-![INFOSYS](https://github.com/user-attachments/assets/bc879d92-e812-4490-aecb-2244e46f1185)
-
-
+![infosys 1](https://github.com/user-attachments/assets/fbd9f707-ed57-457d-a574-3096ebc026dc)
 
 
