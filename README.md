@@ -58,7 +58,7 @@ Other Utility Libraries : **Matplotlib**, **io**.
 8. Upload the csv file from your local machine or you can use sample csv file given here.
 9. After, uploading set the model parameters such as changepoint or forecast period.
 10. Then convert data into prophet preffered format i.e **'ds'** and **'y'** format.
-11. and then just **'Train Model'** and see the forecast results and also, don't forgot to verify model forecast results after 365 days or your mentioned period 😉. 
+11. and then just **'Train Model'** and see the forecast results and also, don't forgot to verify model forecast results after 365 days or your mentioned period 😁. 
 
 
 
