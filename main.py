@@ -29,6 +29,7 @@ if uploaded_file:
     changepoint_scale = st.sidebar.slider("Changepoint Prior Scale", 0.01, 0.5, 0.05)
     seasonality = st.sidebar.selectbox("Seasonality Mode", ["additive", "multiplicative"])
     forecast_periods = st.sidebar.slider("Forecast Periods (days)", 1, 365, 30)
+    st.sidebar.write("by Raj Jangam.")
 
     # Step 2: Convert the data to Prophet format
     if st.button("Convert Data to Prophet Format"):
