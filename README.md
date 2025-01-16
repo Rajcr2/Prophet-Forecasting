@@ -88,7 +88,7 @@ As per Model, TCS Stock is projected to experience a 1.58% change by the end of 
 
 #### 3. INFOSYS
 
-Infosys stock is expected to undergo an 8.19% change by end of 2025, reflecting a moderate but significant movement in the company's market performance over the period.
+Infosys stock is expected to undergo an 7.72% change by end of 2025, reflecting a moderate but significant movement in the company's market performance over the period.
 
 ![infosys_latest](https://github.com/user-attachments/assets/3554f6e6-238e-414c-9336-104e778b6fa1)
 
